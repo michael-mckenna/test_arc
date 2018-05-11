@@ -34,7 +34,6 @@ class CreateEventTableViewController: UITableViewController {
     @IBAction func createEvent(_ sender: Any) {
         
         // checks if there is any empty fields in the user input and returns a message prompting the user to fill out the empty field
-        guard !hasEmptyFields() else { return }
         
         // creating unamanged instance of the hurricane
         let hurricane = Hurricane(value: self.hurricane)

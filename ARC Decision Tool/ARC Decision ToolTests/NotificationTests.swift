@@ -32,24 +32,5 @@ class NotificationTests: XCTestCase {
         
         waitForExpectations(timeout: 10, handler: nil)
     }
-    
-    func testNotificationPermissions() {
-        let expect = expectation(description: "schedule notification")
-
-        UNUserNotificationCenter.current().requestAuthorization(options: [.sound, .alert, .badge]) {
-            granted, error in
-            
-            // Ensure previously set authorization permission is cached
-            if granted {
-                XCTAssertTrue(granted)
-            } else {
-                XCTAssertFalse(granted)
-            }
-            
-            expect.fulfill()
-        }
-        
-        waitForExpectations(timeout: 10, handler: nil)
-    }
 
 }

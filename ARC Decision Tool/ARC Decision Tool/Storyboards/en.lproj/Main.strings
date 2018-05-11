@@ -1,0 +1,72 @@
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "4OT-bn-pj1"; */
+"4OT-bn-pj1.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Location"; ObjectID = "4OT-bn-pj1"; */
+"4OT-bn-pj1.text" = "Location";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "90d-rf-aL8"; */
+"90d-rf-aL8.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Hurrican Name"; ObjectID = "90d-rf-aL8"; */
+"90d-rf-aL8.text" = "Hurrican Name";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "BLr-lC-QhF"; */
+"BLr-lC-QhF.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Anticipated arrival time"; ObjectID = "BLr-lC-QhF"; */
+"BLr-lC-QhF.text" = "Anticipated arrival time";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "KqK-Vn-CtZ"; */
+"KqK-Vn-CtZ.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Confrence call times NHQ (time 2)"; ObjectID = "KqK-Vn-CtZ"; */
+"KqK-Vn-CtZ.text" = "Confrence call times NHQ (time 2)";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "MDh-0x-Fct"; */
+"MDh-0x-Fct.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Confrence Call times Region (time 2)"; ObjectID = "MDh-0x-Fct"; */
+"MDh-0x-Fct.text" = "Confrence Call times Region (time 2)";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "QFy-KE-0We"; */
+"QFy-KE-0We.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Confrence call times NHQ (time 1)"; ObjectID = "QFy-KE-0We"; */
+"QFy-KE-0We.text" = "Confrence call times NHQ (time 1)";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "VIn-mV-TQu"; */
+"VIn-mV-TQu.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Expected evacuation order"; ObjectID = "VIn-mV-TQu"; */
+"VIn-mV-TQu.text" = "Expected evacuation order";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "ZVY-th-PxW"; */
+"ZVY-th-PxW.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Lead time to open shelters"; ObjectID = "ZVY-th-PxW"; */
+"ZVY-th-PxW.text" = "Lead time to open shelters";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "fhI-g8-awi"; */
+"fhI-g8-awi.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Expected re-entry time"; ObjectID = "fhI-g8-awi"; */
+"fhI-g8-awi.text" = "Expected re-entry time";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "hQ4-G9-3zC"; */
+"hQ4-G9-3zC.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Hunker down time"; ObjectID = "hQ4-G9-3zC"; */
+"hQ4-G9-3zC.text" = "Hunker down time";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "k2M-26-70g"; */
+"k2M-26-70g.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Airports expected close time"; ObjectID = "k2M-26-70g"; */
+"k2M-26-70g.text" = "Airports expected close time";
+
+/* Class = "UITextField"; accessibilityLabel = "Hurrican Name"; ObjectID = "kjS-wC-N8q"; */
+"kjS-wC-N8q.accessibilityLabel" = "Hurrican Name";
+
+/* Class = "UITextField"; text = "Confrence Call times Region (time 1)"; ObjectID = "kjS-wC-N8q"; */
+"kjS-wC-N8q.text" = "Confrence Call times Region (time 1)";

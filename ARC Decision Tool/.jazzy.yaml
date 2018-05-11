@@ -1,0 +1,19 @@
+custom_categories:
+  - name: Models
+    children:
+    - Task
+    - CompletionDate
+    - Hurricane
+  - name: Utilities
+    children:
+    - RealmHelper
+    - AlertControllers
+    - TaskNotifications
+    - Constants
+    - Extentions
+  - name: Controllers
+    children:
+    - CreateEventTableViewController
+    - LaunchScreen
+    - ViewController
+
